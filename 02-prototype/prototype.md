@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-https://sage-feedback-pulse.lovable.app
+[https://juno-feedback-pulse.lovable.app]
 _____
 
 ## What it demonstrates
